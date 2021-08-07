@@ -1,0 +1,36 @@
+
+#button-1{
+    font-style: normal;
+    color:#20c997;
+    font-weight: bold;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    border-color: #20c997;
+    background-color: white;
+    margin: 20px;
+}
+
+#button-2{
+    font-style: normal;
+    font-weight: bold;
+    color: white;
+    background-color: #20c997;
+    border-color: #20c997;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin: 20px;
+}
+
+#button-3{
+    font-family: monospace;
+    font-style: inherit;
+    color: white;
+    width: 180px;
+    height: 35px;
+    background-color: #007bff;
+    border-color: black;
+    margin: 20px;
+    box-shadow: 5px 5px 5px black;
+}
