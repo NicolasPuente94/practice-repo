@@ -1,0 +1,40 @@
+div > button{
+    color: #20c997;
+    background-color: white;
+    border-color: #20c997;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 75px;
+    margin-right: 40px;
+    margin-left: 75px;
+    width: 150px;
+    height: 35px;
+    padding-top: 5spx;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+}
+
+#button-2{
+    color: white;
+    background-color: #20c997;
+    font-weight: normal;
+    font-size: 30px;
+    margin-top: 8px;
+    width: 43px;
+    height: 43px;
+    padding-top: 4px;
+    border-radius: 50%;
+}
+#button-3{
+    color: white;
+    background-color: #007bff;
+    border-color: black;
+    font-weight: normal;
+    margin-top: 8px;
+    width: 180px;
+    padding-top: 4px;
+    border-radius: 0%;
+    box-shadow: 5px 5px black;
+}

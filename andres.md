@@ -1,4 +1,0 @@
-nicolas
-andres
-puente
-ramirez
