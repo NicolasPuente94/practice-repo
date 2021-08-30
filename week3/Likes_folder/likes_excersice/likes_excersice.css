@@ -1,0 +1,113 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    outline: 0px;
+    border: 0px;
+}
+
+.top_bar, .bottom_bar{
+    width: 860px;
+    height: 60px;
+    background-color: black;
+    color: #fff;
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.bottom_bar {
+    color: black;
+    background-color: #fff;
+    justify-content: center;
+}
+
+#main_container {
+    width: 950px;
+    height: 700px;
+    background-color: #fff;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#left_container {
+    width: 254px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 15px;
+    border: 2px black;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+#user_pic >img {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+}
+
+#right_container {
+    width: 604px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.likes_boxes {
+    width: 600px;
+    height: 200px;
+    background-color: #fff;
+    margin: auto;
+    border: 2px black;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+.user_data {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btn {
+    width: 80px;
+    height: 35px;
+    background-color: goldenrod;
+    border: 2px black;
+    border-style: solid;
+    box-shadow: 5px 5px black;
+    font-weight: bolder;
+}
+
+.info, .p{
+    background-color: #fff;
+    width: 90%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding: 0px 20px;
+}
+
+
+
+
+
